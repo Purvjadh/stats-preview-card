@@ -52,8 +52,18 @@ body {
   color:var(--clr-neutral-white-main-heading);
   background-color: var(--clr-primary-navy-main);
   position:relative;
+  height: 100dvh;
  
 }
+
+ main {
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    align-items: center;
+    
+  }
 
 
 .card{
@@ -157,14 +167,7 @@ img{
 
   }
 
-   main {
-    max-width: 100%;
-    display: flex;
-    justify-content: center;
-    height: 100%;
-    align-items: center;
-    
-  }
+  
  
 
   article{

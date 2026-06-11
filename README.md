@@ -28,12 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Stats Preview Card Solution](./screenshot.jpg)
+![Stats Preview Card Solution](./images/Screenshot_one.png)
+![Stats Preview Card Solution](./images/Screenshot%20_two.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://github.com/Purvjadh/stats-preview-card/blob/main/style.css)
+- Live Site URL: [ live site URL here](https://joyful-cactus-11b68d.netlify.app/)
 
 ---
 
